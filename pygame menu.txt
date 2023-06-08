@@ -1,0 +1,13 @@
+pygame-menu
+https://pygame-menu.readthedocs.io/en/4.0.1/index.html
+
+https://github.com/ppizarror/pygame-menu/tree/master
+Adding widgets
+https://github.com/ppizarror/pygame-menu/blob/master/docs/_source/add_widgets.rst?ysclid=li4f3gdxgj793013990
+
+
+TKINTER Виджет Menu
+https://www.youtube.com/watch?v=WTmX5Jqqgx4
+
+Создание игр на Python 3 и Pygame
+https://habr.com/ru/articles/347266/
